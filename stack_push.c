@@ -4,12 +4,7 @@
  *  Created on: Oct 10, 2019
  *      Author: User
  */
-/*
- * stack.c
- *
- *  Created on: Oct. 7, 2019
- *      Author: takis
- */
+
 
 #include <stdio.h>
 #include <stdlib.h>
